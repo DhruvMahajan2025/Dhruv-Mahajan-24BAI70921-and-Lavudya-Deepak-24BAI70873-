@@ -1,0 +1,13 @@
+{
+  "name": "skill-gap-analyzer-career-recommender",
+  "version": "1.0.0",
+  "description": "A web app that analyzes skill gaps and recommends career paths.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
